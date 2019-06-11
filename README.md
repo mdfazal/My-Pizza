@@ -1,6 +1,5 @@
 # my_pizza
-
-A new Flutter application.
+## An app that I made while learning how to deal with rows, columns, images, buttons and to create a response when a button is tapped.
 <img src="Screenshot_2019-06-11-20-04-31-89.png" width="40%">
 <img src="Screenshot_2019-06-11-20-04-38-91.png" width="40%">
 
