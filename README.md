@@ -2,6 +2,7 @@
 
 A new Flutter application.
 <img src="Screenshot_2019-06-11-20-04-31-89.png" width="40%">
+<img src="Screenshot_2019-06-11-20-04-38-91.png" width="40%">
 
 ## Getting Started
 
